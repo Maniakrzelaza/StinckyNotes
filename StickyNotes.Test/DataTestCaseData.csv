@@ -1,0 +1,6 @@
+date, result
+1994-01-01,true
+1990-12-12,true
+1-1994-12,false
+adasdasasd, false
+1410-07-10, true
